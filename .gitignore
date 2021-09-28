@@ -7,6 +7,5 @@
 /dataSources/
 /dataSources.local.xml
 /cmake-build-debug
-/CMakeLists.txt
 /output
 .idea/
